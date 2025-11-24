@@ -1,0 +1,5 @@
+{
+  "name": "DreamCycle",
+  "description": "A smart sleep calculator that determines the best times to go to bed or wake up based on 90-minute sleep cycles, enhanced with Gemini AI sleep advice.",
+  "requestFramePermissions": []
+}
